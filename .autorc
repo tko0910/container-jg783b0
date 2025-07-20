@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "tko0910",
+  "repo": "container-jg783b0",
+  "name": "tko0910",
+  "email": "thomas.koeper@web.de",
+}
